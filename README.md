@@ -145,4 +145,4 @@ Made with ❤️ by Shreyas GN
 
 Special thanks to the open-source community for Python and Streamlit, and to educational resources that inspire continuous learning in computer science.
 
-Enjoy learning with Structura: Algorithms & Data Structures! If you find this app useful, please consider giving it a star on GitHub ⭐.
+Enjoy your learning with Structura: Algorithms & Data Structures! If you find this app useful, please consider giving it a star on GitHub ⭐.
